@@ -2,3 +2,4 @@
 
 $pagetitle = "Toilet Wall";
 $subtitle = "Scribble Anything! You know you want to!";
+$previous = "Previous Scribbles:";
