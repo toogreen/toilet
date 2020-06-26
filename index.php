@@ -1,6 +1,7 @@
+<?php include("inc/variables.php"); ?>
 <html>
 <head>
-	<title>Toilet Wall</title>
+	<title><?php echo $pagetitle; ?></title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta charset="UTF-8">
@@ -35,7 +36,7 @@
 			<img src="img/logo.svg">
 		</div>
 		
-		<h1>Toilet Wall</h1>
+		<h1><?php echo $pagetitle; ?></h1>
 
 	</div>
 	<div class="container">
@@ -50,7 +51,7 @@
 					<!-- MAIN CONTENT HERE -->
 					<form action="inc/insert_item.php" method="post">
 					
-						<h3>Scribble! You know you want to!</h3>
+						<h3><?php echo $subtitle; ?></h3>
 						
 						<p>
 							<!-- label>Company name:</label -->
@@ -115,17 +116,18 @@ var vars = [], hash;
 }
 
 // Create lang variable from the script above
-var lang = vars['lang'];
+var edit = vars['edit'];
 
 // Display the value in a popup
 //alert(lang);
 
+
 	// Check if variable FR was passed in URL, if so then load the FR version of this page
-	if (lang == 'fr') {
-      $('#en, #show-fr').toggle("hide");
-      $('#show-en').toggle("show");
-      $('#fr').toggle("slide");
-    };
+    if (edit == 'yes') {
+      //$('#en, #show-fr').toggle("hide");
+      $('.del').toggle("show");
+      //$('#fr').toggle("slide");
+    };        
 });
 
 </script>

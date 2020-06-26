@@ -1,0 +1,4 @@
+<?php
+
+$pagetitle = "Toilet Wall";
+$subtitle = "Scribble! You know you want to!";
