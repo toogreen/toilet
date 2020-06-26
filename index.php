@@ -124,9 +124,7 @@ var edit = vars['edit'];
 
 	// Check if variable FR was passed in URL, if so then load the FR version of this page
     if (edit == 'yes') {
-      //$('#en, #show-fr').toggle("hide");
-      $('.del').toggle("show");
-      //$('#fr').toggle("slide");
+      $('.del').toggle("show");;
     };        
 });
 
