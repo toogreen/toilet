@@ -29,7 +29,7 @@
 
 		<! -- Bitcoin ad -->
 		<div class="ad">
-			<iframe class="ad" data-aa="1416198" src="//ad.a-ads.com/1416198?size=120x60" scrolling="no" style="width:120px; height:60px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
+			<iframe data-aa="1416372" src="//ad.a-ads.com/1416372?size=120x60" scrolling="no" style="width:120px; height:60px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
 		</div>
 		
 		<div id="logo">
@@ -42,7 +42,10 @@
 	<div class="container">
 		<div class="grid">
 			<!-- Left column -->
-			<div></div>
+			<div>
+				<!-- Bitcoin Ad -->
+				<iframe data-aa="1416374" src="//ad.a-ads.com/1416374?size=200x200" scrolling="no" style="width:200px; height:200px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
+			</div>
 
 			<!-- Middle colum (main content) -->
 			<div id="middle-column">
@@ -76,7 +79,10 @@
 			</div>
 
 			<!-- Right columm -->
-			<div></div>
+			<div>
+				<!-- Bitcoin Ad -->
+				<iframe data-aa="1416375" src="//ad.a-ads.com/1416375?size=200x200" scrolling="no" style="width:200px; height:200px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
+			</div>
 		</div>
 	</div>
 	
