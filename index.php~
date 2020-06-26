@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Whistle Blower</title>
+	<title>Toilet Wall</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta charset="UTF-8">
@@ -48,7 +48,7 @@
 
 
 					<!-- MAIN CONTENT HERE -->
-					<form action="inc/insert_blow.php" method="post">
+					<form action="inc/insert_item.php" method="post">
 					
 						<h3>Scribble! You know you want to!</h3>
 						
