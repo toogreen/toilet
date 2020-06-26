@@ -63,7 +63,7 @@
 						
 						<p>
 							<!-- label>Comment:</label -->
-							<textarea name="field2" rows="6" cols="30" placeholder="Comment or Story Here (don't worry, this is completely anonymous, there are no cookies either to track you. Go ahead and spill the beans! :)"></textarea>
+							<textarea name="field2" rows="6" cols="30" placeholder="A poem, a thought? Anything you want! This is completely anonymous and free!"></textarea>
 						</p>
 						
 						<p>
