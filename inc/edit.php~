@@ -1,5 +1,0 @@
-<?php
-$edit=($_GET["edit"]);
-echo "var edit=".$edit."test";
-
-echo "alert($edit);";
