@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "toogreen";
-$password = "toosad";
-$dbname = "toilet";
+$username = "name";
+$password = "pass";
+$dbname = "dbname";
 
 
 // Create connection
